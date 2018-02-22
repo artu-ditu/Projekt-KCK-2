@@ -1,0 +1,18 @@
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 2\Komunikacja Człowiek-Komputer - Projekt 2\bin\Debug\Komunikacja Człowiek-Komputer - Projekt 2.exe.config
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 2\Komunikacja Człowiek-Komputer - Projekt 2\bin\Debug\Komunikacja Człowiek-Komputer - Projekt 2.exe
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 2\Komunikacja Człowiek-Komputer - Projekt 2\bin\Debug\Komunikacja Człowiek-Komputer - Projekt 2.pdb
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 2\Komunikacja Człowiek-Komputer - Projekt 2\obj\Debug\Komunikacja Człowiek-Komputer - Projekt 2.csprojResolveAssemblyReference.cache
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 2\Komunikacja Człowiek-Komputer - Projekt 2\obj\Debug\MainWindow.g.cs
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 2\Komunikacja Człowiek-Komputer - Projekt 2\obj\Debug\App.g.cs
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 2\Komunikacja Człowiek-Komputer - Projekt 2\obj\Debug\Komunikacja Człowiek-Komputer - Projekt 2_MarkupCompile.cache
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 2\Komunikacja Człowiek-Komputer - Projekt 2\obj\Debug\Komunikacja Człowiek-Komputer - Projekt 2_MarkupCompile.lref
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 2\Komunikacja Człowiek-Komputer - Projekt 2\obj\Debug\MainWindow.baml
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 2\Komunikacja Człowiek-Komputer - Projekt 2\obj\Debug\Komunikacja Człowiek-Komputer - Projekt 2.g.resources
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 2\Komunikacja Człowiek-Komputer - Projekt 2\obj\Debug\Komunikacja_Człowiek_Komputer___Projekt_2.Properties.Resources.resources
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 2\Komunikacja Człowiek-Komputer - Projekt 2\obj\Debug\Komunikacja Człowiek-Komputer - Projekt 2.csproj.GenerateResource.Cache
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 2\Komunikacja Człowiek-Komputer - Projekt 2\obj\Debug\Komunikacja Człowiek-Komputer - Projekt 2.csproj.CoreCompileInputs.cache
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 2\Komunikacja Człowiek-Komputer - Projekt 2\obj\Debug\Komunikacja Człowiek-Komputer - Projekt 2.exe
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 2\Komunikacja Człowiek-Komputer - Projekt 2\obj\Debug\Komunikacja Człowiek-Komputer - Projekt 2.pdb
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 2\Komunikacja Człowiek-Komputer - Projekt 2\bin\Debug\Klasy\WindowController.cs
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 2\Komunikacja Człowiek-Komputer - Projekt 2\bin\Debug\PremierLeagueMusic.wav
+C:\Studia\Programowanie - Projekty Visual Studio\Komunikacja Człowiek-Komputer - Projekt 2\Komunikacja Człowiek-Komputer - Projekt 2\obj\Debug\Komunikacja Człowiek-Komputer - Projekt 2_Content.g.cs

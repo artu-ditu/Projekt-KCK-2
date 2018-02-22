@@ -1,0 +1,10 @@
+1;David Silva;31;Manchester City;7
+2;Kevin De Bruyne;26;Manchester City;6
+3;Pascal Gross;26;Brighton;5
+3;Cesar Azpilicueta;28;Chelsea;5
+3;Henrikh Mkhitaryan;28;Manchester United;5
+3;Leroy Sane;21;Manchester City;5
+7;Riyad Mahrez;26;Leicester;4
+7;Matt Ritchie;28;Newcastle;4
+7;Kieran Trippier;27;Tottenham;4
+7;Xherdan Shaqiri;26;Stoke;4

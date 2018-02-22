@@ -1,0 +1,120 @@
+1;11.08.2017;20:45;Arsenal Londyn;Leicester City;4:3
+1;12.08.2017;13:30;Watford F.C.;F.C. Liverpool;3:3
+1;12.08.2017;16:00;Chelsea Londyn;Burnley F.C.;2:3
+1;12.08.2017;16:00;Crystal Palace;Huddersfield Town;0:3
+1;12.08.2017;16:00;Everton F.C.;Stoke City;1:0
+1;12.08.2017;16:00;Southampton;Swansea City;0:0
+1;12.08.2017;16:00;West Bromwich Albion;A.F.C. Bournemouth;1:0
+1;12.08.2017;18:30;Brighton & Hove;Manchester City;0:2
+1;13.08.2017;14:30;Newcastle United;Tottenham Hotspur;0:2
+1;13.08.2017;17:00;Manchester United;West Ham United;4:0
+2;19.08.2017;13:30;Swansea City;Manchester United;0:4
+2;19.08.2017;16:00;A.F.C. Bournemouth;Watford F.C.;0:2
+2;19.08.2017;16:00;Burnley F.C.;West Bromwich Albion;0:1
+2;19.08.2017;16:00;Leicester City;Brighton & Hove;2:0
+2;19.08.2017;16:00;F.C. Liverpool;Crystal Palace;1:0
+2;19.08.2017;16:00;Southampton;West Ham United;3:2
+2;19.08.2017;18:30;Stoke City;Arsenal Londyn;1:0
+2;20.08.2017;14:30;Huddersfield Town;Newcastle United;1:0
+2;20.08.2017;17:00;Tottenham Hotspur;Chelsea Londyn;1:2
+2;21.08.2017;21:00;Manchester City;Everton F.C.;1:1
+3;26.08.2017;13:30;A.F.C. Bournemouth;Manchester City;1:2
+3;26.08.2017;16:00;Crystal Palace;Swansea City;0:2
+3;26.08.2017;16:00;Huddersfield Town;Southampton;0:0
+3;26.08.2017;16:00;Newcastle United;West Ham United;3:0
+3;26.08.2017;16:00;Watford F.C.;Brighton & Hove;0:0
+3;26.08.2017;18:30;Manchester United;Leicester City;2:0
+3;27.08.2017;14:30;Chelsea Londyn;Everton F.C.;2:0
+3;27.08.2017;14:30;West Bromwich Albion;Stoke City;1:1
+3;27.08.2017;17:00;F.C. Liverpool;Arsenal Londyn;4:0
+3;27.08.2017;17:00;Tottenham Hotspur;Burnley F.C.;1:1
+4;09.09.2017;13:30;Manchester City;F.C. Liverpool;5:0
+4;09.09.2017;16:00;Arsenal Londyn;A.F.C. Bournemouth;3:0
+4;09.09.2017;16:00;Brighton & Hove;West Bromwich Albion;3:1
+4;09.09.2017;16:00;Everton F.C.;Tottenham Hotspur;0:3
+4;09.09.2017;16:00;Leicester City;Chelsea Londyn;1:2
+4;09.09.2017;16:00;Southampton;Watford F.C.;0:2
+4;09.09.2017;18:30;Stoke City;Manchester United;2:2
+4;10.09.2017;14:30;Burnley F.C.;Crystal Palace;1:0
+4;10.09.2017;17:00;Swansea City;Newcastle United;0:1
+4;11.09.2017;21:00;West Ham United;Huddersfield Town;2:0
+5;15.09.2017;21:00;A.F.C. Bournemouth;Brighton & Hove;2:1
+5;16.09.2017;13:30;Crystal Palace;Southampton;0:1
+5;16.09.2017;16:00;Huddersfield Town;Leicester City;1:1
+5;16.09.2017;16:00;F.C. Liverpool;Burnley F.C.;1:1
+5;16.09.2017;16:00;Newcastle United;Stoke City;2:1
+5;16.09.2017;16:00;Watford F.C.;Manchester City;0:6
+5;16.09.2017;16:00;West Bromwich Albion;West Ham United;0:0
+5;16.09.2017;18:30;Tottenham Hotspur;Swansea City;0:0
+5;17.09.2017;14:30;Chelsea Londyn;Arsenal Londyn;0:0
+5;17.09.2017;17:00;Manchester;Everton F.C.;4:0
+6;23.09.2017;13:30;West Ham United;Tottenham Hotspur;2:3
+6;23.09.2017;16:00;Burnley F.C.;Huddersfield Town;0:0
+6;23.09.2017;16:00;Everton F.C.;A.F.C. Bournemouth;2:1
+6;23.09.2017;16:00;Manchester City;Crystal Palace;5:0
+6;23.09.2017;16:00;Southampton;Manchester United;0:1
+6;23.09.2017;16:00;Stoke City;Chelsea Londyn;0:4
+6;23.09.2017;16:00;Swansea City;Watford F.C.;1:2
+6;23.09.2017;18:30;Leicester City;F.C. Liverpool;2:3
+6;24.09.2017;17:00;Brighton & Hove;Newcastle United;1:0
+6;25.09.2017;21:00;Arsenal Londyn;West Bromwich Albion;2:0
+7;30.09.2017;13:30;Huddersfield Town;Tottenham Hotspur;0:4
+7;30.09.2017;16:00;A.F.C. Bournemouth;Leicester City;0:0
+7;30.09.2017;16:00;Manchester United;Crystal Palace;4:0
+7;30.09.2017;16:00;Stoke City;Southampton;2:1
+7;30.09.2017;16:00;West Bromwich Albion;Watford F.C.;2:2
+7;30.09.2017;16:00;West Ham United;Swansea City;1:0
+7;30.09.2017;18:30;Chelsea Londyn;Manchester City;0:1
+7;01.10.2017;13:00;Arsenal Londyn;Brighton & Hove;2:0
+7;01.10.2017;15:15;Everton F.C.;Burnley F.C.;0:1
+7;01.10.2017;17:30;Newcastle United;F.C. Liverpool;1:1
+8;14.10.2017;13:30;F.C. Liverpool;Manchester United;0:0
+8;14.10.2017;16:00;Burnley F.C.;West Ham United;1:1
+8;14.10.2017;16:00;Crystal Palace;Chelsea Londyn;2:1
+8;14.10.2017;16:00;Manchester City;Stoke City;7:2
+8;14.10.2017;16:00;Swansea City;Huddersfield Town;2:0
+8;14.10.2017;16:00;Tottenham Hotspur;A.F.C. Bournemouth;1:0
+8;14.10.2017;18:30;Watford F.C.;Arsenal Londyn;2:1
+8;15.10.2017;14:30;Brighton & Hove;Everton F.C.;1:1
+8;15.10.2017;17:00;Southampton;Newcastle United;2:2
+8;16.10.2017;21:00;Leicester City;West Bromwich Albion;1:1
+9;20.10.2017;21:00;West Ham United;Brighton & Hove;0:3
+9;21.10.2017;13:30;Chelsea Londyn;Watford F.C.;4:2
+9;21.10.2017;16:00;Huddersfield Town;Manchester United;2:1
+9;21.10.2017;16:00;Manchester City;Burnley F.C.;3:0
+9;21.10.2017;16:00;Newcastle United;Crystal Palace;1:0
+9;21.10.2017;16:00;Stoke City;A.F.C. Bournemouth;1:2
+9;21.10.2017;16:00;Swansea City;Leicester City;1:2
+9;21.10.2017;18:30;Southampton;West Bromwich Albion;1:0
+9;22.10.2017;14:30;Everton F.C.;Arsenal Londyn;2:5
+9;22.10.2017;17:00;Tottenham Hotspur;F.C. Liverpool;4:1
+10;28.10.2017;13:30;Manchester United;Tottenham Hotspur;1:0
+10;28.10.2017;16:00;Arsenal Londyn;Swansea City;2:1
+10;28.10.2017;16:00;Crystal Palace;West Ham United;2:2
+10;28.10.2017;16:00;F.C. Liverpool;Huddersfield Town;3:0
+10;28.10.2017;13:30;Watford F.C.;Stoke City;0:1
+10;28.10.2017;13:30;West Bromwich Albion;Manchester City;2:3
+10;28.10.2017;18:30;A.F.C. Bournemouth;Chelsea Londyn;0:1
+10;29.10.2017;14:30;Brighton & Hove;Southampton;1:1
+10;29.10.2017;17:00;Leicester City;Everton F.C.;2:0
+10;30.10.2017;21:00;Burnley F.C.;Newcastle United;1:0
+11;04.11.2017;13:30;Stoke City;Leicester City;2:2
+11;04.11.2017;16:00;Swansea City;Brighton & Hove;0:1
+11;04.11.2017;16:00;Southampton;Burnley F.C.;0:1
+11;04.11.2017;16:00;Newcastle United;A.F.C. Bournemouth;0:1
+11;04.11.2017;16:00;Huddersfield Town;West Bromwich Albion;1:0
+11;04.11.2017;18:30;West Ham United;F.C. Liverpool;1:4
+11;05.11.2017;13:00;Tottenham Hotspur;Crystal Palace;1:0
+11;05.11.2017;15:15;Manchester City;Arsenal Londyn;3:1
+11;05.11.2017;17:30;Everton F.C.;Watford F.C.;3:2
+11;05.11.2017;17:30;Chelsea Londyn;Manchester United;1:0
+12;18.11.2017;13:30;Arsenal Londyn;Tottenham Hotspur;-:-
+12;18.11.2017;16:00;A.F.C. Bournemouth;Huddersfield Town;-:-
+12;18.11.2017;16:00;Burnley F.C.;Swansea City;-:-
+12;18.11.2017;16:00;Crystal Palace;Everton F.C.;-:-
+12;18.11.2017;16:00;Leicester City;Manchester City;-:-
+12;18.11.2017;16:00;F.C. Liverpool;Southampton;-:-
+12;18.11.2017;16:00;West Bromwich Albion;Chelsea Londyn;-:-
+12;18.11.2017;18:30;Manchester United;Newcastle United;-:-
+12;19.11.2017;17:00;Watford F.C.;West Ham United;-:-
+12;20.11.2017;21:00;Brighton & Hove;Stoke City;-:-

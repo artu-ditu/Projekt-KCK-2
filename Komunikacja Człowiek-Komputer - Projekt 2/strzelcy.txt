@@ -1,0 +1,10 @@
+1;Harry Kane;24;Tottenham;8
+1;Sergio Aguero;29;Manchester City;8
+3;Romelu Lukaku;24;Manchester United;7
+3;Gabriel Jesus;20;Manchester City;7
+3;Alvaro Morata;24;Chelsea;7
+3;Mohamed Salah;25;Liverpool;7
+3;Raheem Sterling;22;Manchester City;7
+8;Alexandre Lacazette;26;Arsenal;6
+8;Jamie Vardy;30;Leicester;6
+8;Leroy Sane;21;Manchester City;6
